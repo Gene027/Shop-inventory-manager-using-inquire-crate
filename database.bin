@@ -1,0 +1,4 @@
+
+{"name":"bread","item_type":"food","price":400.0,"stock_qty":10}
+{"name":"rice","item_type":"food","price":2500.0,"stock_qty":5}
+{"name":"gala","item_type":"food","price":100.0,"stock_qty":50}
